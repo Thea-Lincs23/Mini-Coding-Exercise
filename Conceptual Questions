@@ -1,0 +1,20 @@
+1. Classification Basics
+a. Explain the difference between classification and regression.
+b. Give two examples each of:
+• Binary classification
+• Multiclass classification
+c. Define the following evaluation metrics:
+• Accuracy
+• Precision
+• Recall
+• F1 Score
+• Confusion Matrix
+2. Logistic Regression
+a. Why is logistic regression considered a classification algorithm, not a regression algorithm?
+b. What is the role of the sigmoid function in logistic regression?
+c. List two advantages and two disadvantages of logistic regression.
+3. K-Nearest Neighbors (KNN)
+a. What does it mean that KNN is a non-parametric and lazy learning algorithm?
+b. Describe the steps of how KNN classifies a new data point.
+c. Explain how choosing a small K vs. a large K affects the model.
+d. Why is feature scaling (normalization/standardization) important for KNN?
